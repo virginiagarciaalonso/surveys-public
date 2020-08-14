@@ -128,7 +128,7 @@ Nota: Consideramos Bilingüe a una persona que habla ambos idiomas con igual des
 * Sí, de manera parcial
 * No
 * Prefiero no responder
-
+holaaaaaaaaaaaaaaaaaa
 ### ¿Tienes alguna discapacidad o impedimentos que afecten la forma en que estudias / trabajas o necesitas requisitos especiales en tu entorno de aprendizaje / trabajo? 
 
 (1 o + opciones) 
