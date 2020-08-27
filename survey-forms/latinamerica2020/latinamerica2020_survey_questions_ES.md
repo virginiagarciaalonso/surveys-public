@@ -130,8 +130,8 @@ Nota: Consideramos Bilingüe a una persona que habla inglés y su primera lengua
 (1 opción) 
 * Doctorado
 * Maestría
-* Grado/Licenciatura
-* Terciario
+* Grado/Licenciatura/Superior Universitario
+* Terciario/Superior no Universitario
 * Título Técnico
 * Secundario
 * Primario
@@ -253,7 +253,7 @@ Nota: Consideramos Bilingüe a una persona que habla inglés y su primera lengua
 * Todavía no empecé a usar R
 * Otros (a completar) 
 
-### 24) ¿Dónde aprendiste a usar R?
+### 24) ¿Dónde aprendiste/aprenderías a usar R?
 
 (1 o + opciones) 
 * Cursos gratuitos (online)
