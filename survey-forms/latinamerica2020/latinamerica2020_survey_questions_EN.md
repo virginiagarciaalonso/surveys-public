@@ -347,8 +347,8 @@ Note: Please mention only one.
 * I don't know how to share it
 * I don't know how to share it and to be cited correctly
 * I don't know how to share it and secure my copyright
-* They don't allow it in my work
 * I don't want to share it
+* They don't allow it in my work
 * Prefer not to respond
 * Other (to be completed)
 
